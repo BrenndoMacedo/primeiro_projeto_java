@@ -1,9 +1,4 @@
-
-public class Program {
+void main () {
 	
-	public static void main (String [] args) {
-		
-		System.out.print("Ola mundo");
-
-	}
+	IO.println("Olá, mundo");
 }
